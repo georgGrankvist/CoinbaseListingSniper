@@ -1,6 +1,4 @@
- CoinbaseListingSniper
- @author GG
- @version 1.0
+# Coinbase Listing Sniper
 
 Script that listens to the @CoinbaseAssets twitter to find information about new Coinbase listings,
  and automatically buys 100 USDT worth of the new listing on Binance as soon as it is posted on Twitter.
