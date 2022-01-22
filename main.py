@@ -7,7 +7,7 @@ import json
 import requests
 
 
-bearer_token = "AAAAAAAAAAAAAAAAAAAAAEqVYQEAAAAAN2bl3e0HvYQVQf7j1Av82kO4Tmc%3DiScvHeemQEQBIRNuziKBRgYkxTXCiRNrwk2GZCyTxvk5fnu4Nm"
+bearer_token = ""
 rule_headers = {'Content-Type': "application/json", "Authorization": "Bearer " + bearer_token}
 
 
