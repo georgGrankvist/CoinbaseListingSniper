@@ -6,6 +6,9 @@ As Coinbase is one of the largest exchanges in terms of active users and trading
 expect some positive price action in an asset if it is listed on their platform.
 This script will help you react  early to listing news and allow you to purchase the asset before most manual traders. 
 
+![7446a5e363290da1cf9e2a4d9ec1b184](https://user-images.githubusercontent.com/62744506/150651032-951f477e-a613-442b-b300-741ab1e77edd.png)
+
+
 Installation/run instructions:
 1. Import requests, json and Client from binance.client ( https://github.com/binance/binance-connector-python ) 
 2. Create a twitter developer account, and create a Twitter developer project. 
