@@ -46,8 +46,7 @@ def get_rules():
 
 def get_twitter_feed():
     # todo: add rule to filter for asset listing tweets
-    rules = [{"value": "from:coinbaseassets inbound transfers", "tag:": "inbound transfers"},
-             ]
+    rules = [{"value": "from:coinbaseassets inbound transfers", "tag:": "inbound transfers"}]
     payload = {"add": rules}
     print(payload)
 
